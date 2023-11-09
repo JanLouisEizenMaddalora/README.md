@@ -1,21 +1,18 @@
-[![MasterHead](https://media.discordapp.net/attachments/1070739126292328468/1150713751545327708/AASDLASDASD.png?width=1025&height=267)](https://rishavchanda.io)
-<h1 align="center">Noriel Achero</h1>
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQE2_JZnTF-k7g/profile-displaybackgroundimage-shrink_350_1400/0/1678114774767?e=1704931200&v=beta&t=EmsI9YWdHmfEVNB7GvAs-marE5pE1LhpEB1m0-n3-Bk)](https://rishavchanda.io)
+<h1 align="center">Jan Louis Eizen Maddalora</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/nrachero/">
+    <a href="https://www.linkedin.com/in/maddalora-jan-louis-eizen/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto: acheronorielr@gmail.com">
+    <a href="mailto: emaddalora@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website">
     </a>
-    <a href="https://www.facebook.com/nrachero/">
+    <a href="https://www.facebook.com/janlouis.maddaloraii/">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
     </a>
-    <a href="https://www.instagram.com/noyriel_/">
+    <a href="https://www.instagram.com/iamayzeeeen/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://t.me/nrachero">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
 </p>
 
@@ -23,7 +20,7 @@
 
 
 
-<h3 align="center">A 3rd-year Computer Science student at New Era University, Quezon City, Philippines</h3>
+<h3 align="center">A 4th-year BSIT STUDENT at New Era University, Quezon City, Philippines</h3>
 
 
 <h1 align="left">Languages and Tools</h1>
@@ -36,18 +33,7 @@
 2021 - Present <br><br></p>
 
 <h1 align="left">Certifications</h1>
-<p align ="left"><a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4MzU4XzE2OTQwNzE0NzIucG5nIiwidXNlcm5hbWUiOiJOb3JpZWwgUi4gQWNoZXJvIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228126272761800539&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVz3YyMsxyNkoJdU4CAHL%2BFYAlAAAA" ><br>Business Analytics with Excel</a> <br>
-                   Simplilearn Corporation <br>
-                   September 07, 2023 </center></p>
-<p align ="left">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C9E664CDAE6263E64C19578F858D27149CD9A9C4708E4CDE6EC07D24B2E287B&fbclid=IwAR35LNBhQmNWmxbKfIlm8KlbDVzr-x4yJ-7gHOF3ixLRDIVSSbIZyummgek"><br>Oracle Cloud Data Management Foundations Associate</a> <br>
-                   Oracle University <br>
-                   December 9, 2022 </center></p>
-<p align ="left">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EB79B5FF329CC2E00E4282868C8DF999A79A88FAE3250C3E77CABF51C8EBDE4&fbclid=IwAR3XS1StGkj_o3_VNGUu7QjDDqPmmgi2tFNkKzXpby2Rud4vck-bMULkapQ#"><br>Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a> <br>
-                   Oracle University <br>
-                   November 23, 2022 </center></p>
-<p align ="left">
-<a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de"><br>SQL and Relational Databases 101</a> <br>
-                   Cognitive Class <br>
-                   November 2, 2022 </center></p>
+<p align ="left"><a href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl80NDk4MzU4XzE2OTQwNzE0NzIucG5nIiwidXNlcm5hbWUiOiJOb3JpZWwgUi4gQWNoZXJvIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F2738%2FBusiness-Analytics-with-Excel%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1228126272761800539&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVz3YyMsxyNkoJdU4CAHL%2BFYAlAAAA" ><br>[E-CERTIFICATE] HELLO NEW WORLD Intellectual Property</a> <br>
+                   New Era University <br>
+                   March 30, 2023 </center></p>
+
